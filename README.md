@@ -1,8 +1,8 @@
 <h2>Denise  Vidal</h2>
 
 
-Web development student <br>
-Currently learning HTML, CSS and Javascript.
+Estudante de Desenvolvimento Web <br>
+Atualmente estudando HTML, CSS e Javascript.
 
 <div>
 <a href = "mailto:vidal.trabalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
