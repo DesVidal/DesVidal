@@ -1,8 +1,8 @@
 <h2>Denise  Vidal</h2>
 
 
-Estudante de Desenvolvimento Web <br>
-Atualmente estudando HTML, CSS e Javascript.
+Quality Assurance <br>
+Aluna do Programa de Testes e Qualidade de Software - Júlio de Lima.
 
 <div>
 <a href = "mailto:vidal.trabalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
